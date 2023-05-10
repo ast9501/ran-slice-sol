@@ -1,0 +1,3 @@
+[submodule "openairinterface5g-helm"]
+	path = openairinterface5g-helm
+	url = git@gitlab.com:nctuwinlab/winlab-oran/openairinterface5g-helm.git
